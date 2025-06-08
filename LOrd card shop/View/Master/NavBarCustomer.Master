@@ -1,0 +1,91 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="NavBarCustomer.Master.cs" Inherits="LOrd_card_shop.View.Master.NavBar" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <style>
+        nav {
+            background-color: #333;
+            padding: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+            nav a, nav .logout-button {
+                color: white;
+                text-decoration: none;
+                padding: 10px 15px;
+                margin-right: 10px;
+            }
+
+                nav a:hover {
+                    background-color: #555;
+                }
+
+        .nav-left {
+            display: flex;
+            align-items: center;
+        }
+
+        .nav-right {
+            display: flex;
+            align-items: center;
+        }
+
+        .search-box {
+            padding: 5px;
+            margin-right: 5px;
+        }
+
+        .search-button {
+            padding: 5px 10px;
+        }
+
+        .logout-button {
+            margin-left: 10px;
+            padding: 5px 10px;
+            background-color: red;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+            .logout-button:hover {
+                background-color: darkred;
+            }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <nav>
+            <!-- Left Side -->
+            <div class="nav-left">
+                <asp:LinkButton ID="HomeBtnNav" runat="server" OnClick="HomeBtnNav_Click">Home</asp:LinkButton>
+                <asp:LinkButton ID="OrderBtnNav" runat="server" OnClick="OrderBtnNav_Click">Order Card</asp:LinkButton>
+                <asp:LinkButton ID="ProfileBtnNav" runat="server" OnClick="ProfileBtnNav_Click">Profile</asp:LinkButton>
+                <asp:LinkButton ID="HistoryBtnNav" runat="server" OnClick="HistoryBtnNav_Click">History</asp:LinkButton>
+                <asp:LinkButton ID="CartBtnNav" runat="server" OnClick="CartBtnNav_Click">Cart</asp:LinkButton>
+            </div>
+
+            <!-- Right Side -->
+            <div class="nav-right">
+                <asp:TextBox ID="txtSearch" runat="server" CssClass="search-box" placeholder="Search shows..." />
+                <asp:Button ID="btnSearch" runat="server" Text="Search" CssClass="search-button" OnClick="btnSearch_Click" />
+                <asp:Button ID="LogOutBtn" runat="server" Text="Log Out" CssClass="logout-button" OnClick="LogOutBtn_Click" />
+            </div>
+        </nav>
+        <div>
+            <asp:Label ID="LblUser" runat="server" Text=""></asp:Label>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
