@@ -347,3 +347,83 @@ E:\VSC 2022\LOrd card shop\LOrd card shop\Final\LOrd card shop\obj\Debug\LOrd ca
 E:\VSC 2022\LOrd card shop\LOrd card shop\Final\LOrd card shop\obj\Debug\LOrd car.AE8933DF.Up2Date
 E:\VSC 2022\LOrd card shop\LOrd card shop\Final\LOrd card shop\obj\Debug\LOrd card shop.dll
 E:\VSC 2022\LOrd card shop\LOrd card shop\Final\LOrd card shop\obj\Debug\LOrd card shop.pdb
+E:\LOrd-Card-Shop\LOrd card shop\bin\LOrd card shop.dll.config
+E:\LOrd-Card-Shop\LOrd card shop\bin\LOrd card shop.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\LOrd card shop.pdb
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\csc.exe
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\csc.exe.config
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\csc.rsp
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\csi.exe
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\csi.exe.config
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\csi.rsp
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.AppContext.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Collections.Immutable.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Console.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Globalization.Calendars.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.IO.Compression.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.IO.FileSystem.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Net.Http.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Net.Sockets.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Reflection.Metadata.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.ValueTuple.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Xml.XPath.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\vbc.exe
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\vbc.exe.config
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\vbc.rsp
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\VBCSCompiler.exe
+E:\LOrd-Card-Shop\LOrd card shop\bin\roslyn\VBCSCompiler.exe.config
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.ReportSource.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.Shared.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.Web.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\EntityFramework.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\EntityFramework.SqlServer.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\stdole.dll
+E:\LOrd-Card-Shop\LOrd card shop\bin\EntityFramework.xml
+E:\LOrd-Card-Shop\LOrd card shop\bin\EntityFramework.SqlServer.xml
+E:\LOrd-Card-Shop\LOrd card shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\LOrd-Card-Shop\LOrd card shop\obj\Debug\LOrd card shop.csproj.AssemblyReference.cache
+E:\LOrd-Card-Shop\LOrd card shop\obj\Debug\LOrd card shop.csproj.CoreCompileInputs.cache
+E:\LOrd-Card-Shop\LOrd card shop\obj\Debug\LOrd car.AE8933DF.Up2Date
+E:\LOrd-Card-Shop\LOrd card shop\obj\Debug\LOrd card shop.dll
+E:\LOrd-Card-Shop\LOrd card shop\obj\Debug\LOrd card shop.pdb
