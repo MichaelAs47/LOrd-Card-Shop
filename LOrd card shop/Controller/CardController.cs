@@ -47,7 +47,7 @@ namespace LOrd_card_shop.Controller
             {
                 return "Card name must be between 5 and 50 characters";
             }
-            if (cardPrice < 10000)
+            if (cardPrice <= 10000)
             {
                 return "Card price must be equal or more than 10000";
             }
@@ -82,7 +82,7 @@ namespace LOrd_card_shop.Controller
                 return "Card name must be between 5 and 50 characters";
             }
 
-            if(cardPrice < 10000)
+            if(cardPrice <= 10000)
             {
                 return "Card price must be equal or more than 10000";
             }
